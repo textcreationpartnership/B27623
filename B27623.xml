@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>One wonder more added to the seven wonders of the world verified in the person of Mr. George Keith, once a Presbyterian, afterwards about thirty years a Quaker, then a noun substantive at Turners-Hall, and now an itinerant preacher (upon his good behaviour) in the Church of England, and all without variation (as himself says) in fundamentals / by a Protestant dissenter.</title>
+            <author>Protestant dissenter.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27623</idno><idno type="EEBO-CITATION">27876268</idno>
+  <idno type="VID">205768</idno>
+  <idno type="EEBO-PROQUEST">2240893133</idno>
+  
+            <idno type="STC">Wing O336B</idno>
+            <idno type="OCLC">27876268</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27623)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205768)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1731:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>One wonder more added to the seven wonders of the world verified in the person of Mr. George Keith, once a Presbyterian, afterwards about thirty years a Quaker, then a noun substantive at Turners-Hall, and now an itinerant preacher (upon his good behaviour) in the Church of England, and all without variation (as himself says) in fundamentals / by a Protestant dissenter.</title>
+                  <author>Protestant dissenter.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Imperfect: stained, with loss of text.</note>
+                  <note>Reproduction of original in Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Keith, George, 1639?-1716.</term>
+               <term type="topical_term">Quakers --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="opener">
+            <pb facs="tcp:205768:1"/>
+            <pb n="1" facs="tcp:205768:1"/>
+            <head>One WONDER more, Added to the Seven Wonders of the World.</head>
+            <p>Verified in the Person of Mr. <hi>George Keith,</hi> once a <hi>Presbyterian,</hi> afterwards about Thirty Years a <hi>Qua<g ref="char:EOLhyphen"/>ker,</hi> then a <hi>Noun Substantive</hi> at <hi>Turners-Hall,</hi> and now an Itinerant Preacher (upon his Good Beha<g ref="char:EOLhyphen"/>viour) in the <hi>Church</hi> of <hi>England:</hi> And all without Variation (as himself says) in Fundamentals.</p>
+            <byline>By a Protestant Dissenter.</byline>
+         </div>
+         <div type="text">
+            <p>HIS Education, Judgment and Affection, in his Youth, so dipp'd him in the <hi>Scotch Solemn League</hi> and <hi>Covenant,</hi> that he Glories in it: Page 38, and 39. of <hi>Help in Time of Need,</hi>
+               <q rend="margQuotes">
+                  <hi>That by it, as Prelacy was declared</hi> a Limb of Anti-Christ, the Horrible and Filthy thing set up in the Land. &amp; <hi>he, <hi>&amp;c.</hi>
+                  </hi> had vowed to the most High God against it, and had kept his Vow.</q> What is become of his Vow now?</p>
+            <p>The same Mr. <hi>Keith,</hi> whilst a <hi>Quaker,</hi> saith in behalf of them, in the same Book, thus: <q rend="margQuotes">I declare unto you </q>
+               <hi>(Pres<g ref="char:EOLhyphen"/>byterians)</hi>
+               <q rend="margQuotes">and that in the Name and Power of the Living God, That ye shall look till your Eyes fail you, and rot in your Holes, ere ever ye see another Day or Ap<g ref="char:EOLhyphen"/>pearance of Jesus Christ, to your Comfort, than what
+<pb n="2" facs="tcp:205768:2"/> We, the People of the Lord, called <hi>Quakers,</hi> do witness Come, and more abundantly Coming:</q>
+               <hi>Help in Time of Need,</hi> page 78, 79. printed 1665.—</p>
+            <p>Again, <q rend="margQuotes">It sufficeth me, and I hope many others, that ac<g ref="char:EOLhyphen"/>cording to the best Knowledge I have of the <hi>Quakers,</hi> as Preachers and Publishers of their <hi>Faith,</hi> of unquestionable Esteem among them, and worthy of double Honour, as ma<g ref="char:EOLhyphen"/>ny such there are. I know none are Guilty of any one of those <hi>Heresies,</hi> he <hi>(C. M.)</hi> accuseth them of, </q>
+               <hi>(which are the same Mr.</hi> Keith <hi>now accuseth them of, and the same he hath vindicated them from)</hi>
+               <q rend="margQuotes">'And I think (adds Mr. <hi>Keith</hi>) I should know, and do know, the <hi>Quakers</hi> and their <hi>Principles;</hi> ha<g ref="char:EOLhyphen"/>ving been Conversant with them in Publick and Private, with the most noted among 'em, for about Twenty Eight Years past, in both <hi>Europe</hi> and <hi>America:</hi>
+               </q>
+               <hi>Serious Appeal,</hi> page 7. printed 1692. Twenty Seven Years Experience, after <hi>Help in Time of Need,</hi> printed 1665. Add to this the Multitude of Books he writ in their Defence, against <hi>Episcopalians, Pres<g ref="char:EOLhyphen"/>byterians, Independents, Baptists,</hi> &amp;c. in Vindication of those <hi>ve<g ref="char:EOLhyphen"/>ry</hi> Books he now quotes for their <hi>Heresie;</hi> so that he cannot <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>nly</hi> pretend <hi>Ignorance,</hi> concerning either the <hi>Books,</hi> or the <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> therein contained.</p>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> same Mr. <hi>Keith,</hi> in his <hi>Interregnum,</hi> after the <hi>Quakers</hi>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>communicated him, (for he left not them) in Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which is sweet) saith, <q rend="margQuotes">The <hi>Quakers</hi> hold such vile <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and Heresies, as are Repugnant to the Christian <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ss and that no such Damnable Heresies, and Doctrines <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Devils, is tolerated in any Protestant Society: <hi>Never<g ref="char:EOLhyphen"/>theless,</hi> he is in Love and Charity with a Considerable Number; yea, with all the Faithful, both in the City of <hi>London</hi> and Country.</q>
+               <hi>Antichrist and Sadduces, Loving Epi<g ref="char:EOLhyphen"/>stle,</hi> &amp;c. printed 96, 97, 98, 99.</p>
+            <p>The same Mr. <hi>Keith,</hi> an Itinerant Preacher for the <hi>Church</hi> of <hi>England,</hi> in the Year 1700. (a very Remarkable Year for
+<pb n="3" facs="tcp:205768:2"/> Wonders) from the Pulpit, sends his repeated Exclamations against all Dissenters, except the Church of <hi>Rome;</hi> which is not only astonishing, but makes us believe, that the Qua<g ref="char:EOLhyphen"/>kers had good reason to Expel him their Communion; nor can we think him any other than a <hi>Tool,</hi> for no good, either to us or the Quakers.</p>
+            <p>The same Mr <hi>Keith,</hi> in his Book, <hi>Quakers Politicks,</hi> makes good my Jealousie of him; <q rend="margQuotes">For doth it not, saith he, p. 26. deserve the serious Consideration of the Civil Govern<g ref="char:EOLhyphen"/>ment, to be a Warning to them to keep a watchful Eye over the Quakers?—Again, What security has the Civil Government? But when they think fit, and apprehend they are moved by the Spirit so to do, they may take up the Sword, considering their Numbers, Wealth and Poli<g ref="char:EOLhyphen"/>ticks; for the Prosperity therefore, of the Christian Reli<g ref="char:EOLhyphen"/>gion in these three Nations, which is in danger to be un<g ref="char:EOLhyphen"/>dermin'd, by their Crafty Politicks, if not seasonably pre<g ref="char:EOLhyphen"/>vented (which I desire may be done) I publish this their Politicks to the Nation.a</q> P. 29. He goes on, <q rend="margQuotes">And I do say, I have a good Conscience, and great Peace herein, if Suf<g ref="char:EOLhyphen"/>ferings come on them, after this my Exposing them. Again, I can justly say, neither I, nor others concerned with me, (viz. <hi>Bugg, Snake,</hi> &amp;c.) in the like opposition against them, are chargeable with it.</q>
+            </p>
+            <p>Behold here <hi>Revolution</hi> upon <hi>Revolution,</hi> and all with<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a Thousand Years; as wonderful as Transmigration or Tran<g ref="char:EOLhyphen"/>substantiation! not for the unconstancy of the Man, and his many Changes, Sayings for and against, and against and for; out and in, and in and out; backwards and forwards, and forwards and backwards: But in the midst, beginning and ending, he is always in the right of it! for in all these Turnings and Disputings he is not <hi>Contradicting himself in <hi>any thing,</hi> Serious Appeal,</hi> p. 7. nor has he, in all, or any of these <hi>Removes, <hi>varied from one Fundamental Principle of
+<pb n="4" facs="tcp:205768:3"/> the Christian Faith; nor indeed from any one Fundamental Principle,</hi>
+               </hi> 1st <hi>Narrative,</hi> p. 15. For he has the only skill of any Man in this Age, to be <hi>as</hi> a Jew, but not one; to be <hi>as</hi> a Gentile, but not one; <hi>Bristol Quakerism exposed,</hi> p. 32. His design being, as he saith, to gain some; if he means Mo<g ref="char:EOLhyphen"/>ney, I believe him.</p>
+            <p>The <hi>Presbyterians,</hi> whilst he was with them, both they, and he, hold the <hi>Fundamentals</hi> of Christianity; yet <hi>he left</hi> them, and settled with the Quakers about 30 Years, they and he <hi>agreeing in the Fundamentals of Christianity;</hi> for he saith, He knew them 28 Years, and was in <hi>dear</hi> Unity with them; but for <hi>breaking</hi> that <hi>dear</hi> Unity, they Excom<g ref="char:EOLhyphen"/>municated him, upon which he fell in with the <hi>Turner's</hi> at their <hi>Hall;</hi> untill <hi>some</hi> considered him, and found him a fit Tool to begin this work with, upon the Quakers: First, as the weakest part; that our Golden or Glorious Chain of Toleration might be broken; from which mi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chie<g ref="char:EOLhyphen"/>vous Design, I pray God, Deliver us. <hi>Amen.</hi>
+            </p>
+            <q>Monstrum! Horrendum, Informe, Ingens, cui <hi>Lumen ademptum!</hi>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:205768:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
